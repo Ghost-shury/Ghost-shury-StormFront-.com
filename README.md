@@ -1,2 +1,2 @@
 # Ghost-shury-StormFront-.com
-Sito per il gioco 
+Sito Ufficiale StormFront. 
